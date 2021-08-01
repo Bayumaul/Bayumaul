@@ -1,4 +1,4 @@
-### Hi! 👋 I'm Bayu.
+### Hi! 👋 I'm Bayu Maulana Ikhsan.
 I am a 7th semester student of the Information Systems Study Program at [Universitas AMIKOM Yogyakarta](https://www.amikom.ac.id/). I am a web development beginner with basic Laravel and MySQL. I can work as a team or individually. I am ambitious in something I want to achieve.
 
 - 🌱 I’m currently learning about technology for back-end apps
