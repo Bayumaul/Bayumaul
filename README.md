@@ -1,12 +1,15 @@
-# Halo semua! 
-Perkenalkan nama saya **Bayu Maulana Ikhsan**.\
-Saya seorang **Mahasiswa Semester 6** di [Universitas AMIKOM Yogyakarta](https://www.amikom.ac.id/).\
+### Hi! 👋 I'm Bayu.
+I am a 7th semester student of the Information Systems Study Program at [Universitas AMIKOM Yogyakarta](https://www.amikom.ac.id/). I am a web development beginner with basic laravel and my sql. I can work as a team or individually. I am ambitious in something I want to achieve.
 
-<!-- Saya bertanggung jawab pada kualitas materi iOS dengan dibekali [sertifikasi dari University of Toronto](https://www.coursera.org/account/accomplishments/specialization/CLKJD8XBXJ3M).\
-Saya juga memiliki gelar [Google Associate Android Developer](https://www.credential.net/h5deoi5h) sejak 2019.\
- -->
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/bayu-maulana-ikhsan-74a471212/)ku ya.
- 
+- 🌱 I’m currently learning about technology for back-end apps
+- 💬 Feel free to ask me about web development or JavaScript
+- 📫 How to reach me: bayu.maulanaikhsan123@gmail.com
+- ⚡ Fun fact: I can't swallow tablets
+
+If you are interested in getting to know me, please follow the account [Linkedin](https://www.linkedin.com/in/bayu-maulana-ikhsan-74a471212/).
+
+<br>
+### Github Statistic 
 <p align="left">
 <a href="https://github.com/Bayumaul">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Bayumaul&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
