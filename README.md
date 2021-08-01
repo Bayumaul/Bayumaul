@@ -16,9 +16,9 @@ If you are interested in getting to know me, please follow the account .
 
 ### Tech Stack
   <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
-  <a href="https://nodejs.org/"><img align="left" alt="NodeJS" title="NodeJS" width="50px" src="https://www.php.net/images/logos/new-php-logo.svg"/></a>
-    <a href="https://nodejs.org/"><img align="left" alt="NodeJS" title="NodeJS" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg"/></a>
-  <a href="https://reactjs.org/"><img align="left" alt="React" title="React" width="50px" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" /></a>
+  <a href="https://www.php.net/"><img align="left" alt="php" title="php" width="50px" src="https://www.php.net/images/logos/new-php-logo.svg"/></a>
+    <a href="https://laravel.com/"><img align="left" alt="Laravel" title="Laravel" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg"/></a>
+  <a href="https://www.mysql.com/"><img align="left" alt="mysql" title="MySQL" width="50px" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" /></a>
 <br>
   <br>
 
