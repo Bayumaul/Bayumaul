@@ -1,5 +1,5 @@
 ### Hi! 👋 I'm Bayu Maulana Ikhsan.
-I am a final semester student of the Information Systems Study Program at [Universitas AMIKOM Yogyakarta](https://www.amikom.ac.id/). I am a web development beginner with the basis of Laravel and MySQL. I love technology and am passionate about coding and programming. I am good at logistical and structural thinking which helps. I solve challenging problems. I enjoy working in a team to create innovative and quality results. I have great responsibility and detail.
+I am a fresh graduate of the Information Systems Study Program at [Universitas AMIKOM Yogyakarta](https://www.amikom.ac.id/). I am a web development beginner with the basis of Laravel and MySQL. I love technology and am passionate about coding and programming. I am good at logistical and structural thinking which helps. I solve challenging problems. I enjoy working in a team to create innovative and quality results. I have great responsibility and detail.
 
 - 🌱 I’m currently learning about technology for back-end apps
 - 💬 Feel free to ask me about web development or JavaScript or Laravel
